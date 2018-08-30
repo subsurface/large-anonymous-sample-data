@@ -1,0 +1,8 @@
+duration 45:48 min
+tags "Decompression", "boat", "deep", "student", "tech1", "training"
+divesiteid eaed3553
+buddy "Melissa, Johannes"
+suit "DUI TLS 350"
+cylinder vol=24.0l workpressure=232.0bar description="Bi cinzenta" o2=21.0% he=35.0% start=200.0bar end=130.0bar
+cylinder vol=7.0l workpressure=232.0bar description="Deco 7 l" o2=50.0% start=200.0bar end=150.0bar
+weightsystem weight=4.0kg description="belt"

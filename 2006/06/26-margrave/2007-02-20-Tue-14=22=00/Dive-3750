@@ -1,0 +1,9 @@
+duration 16:36 min
+visibility 1
+tags "boat", "student", "training"
+divesiteid 3dfb0e1f
+buddy "Robert"
+suit "DUI TLS 350"
+cylinder vol=24.0l workpressure=232.0bar description="Bi cinzenta" o2=30.0% he=30.0%
+cylinder vol=7.0l workpressure=232.0bar description="Deco 7 l"
+weightsystem weight=4.0kg description="belt"

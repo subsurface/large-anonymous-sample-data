@@ -1,0 +1,6 @@
+duration 36:00 min
+tags "boat", "guide"
+divesiteid e3b1e85f
+buddy "Karen"
+suit "Scubapro S-Tek"
+cylinder vol=12.0l description="air" start=200.0bar end=110.0bar

@@ -1,0 +1,4 @@
+model "Aladin Pro Nitrox"
+maxdepth 9.2m
+airtemp 23.0°C
+watertemp 18.0°C

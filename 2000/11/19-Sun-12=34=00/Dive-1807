@@ -1,0 +1,7 @@
+duration 42:20 min
+visibility 1
+tags "scubidoo", "shore"
+divesiteid 8e1d5bf7
+buddy "Donald"
+suit "Scubapro S-Tek"
+cylinder vol=12.0l description="air" start=200.0bar end=130.0bar

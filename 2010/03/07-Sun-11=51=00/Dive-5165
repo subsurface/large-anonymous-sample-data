@@ -1,0 +1,9 @@
+duration 25:24 min
+visibility 1
+tags "boat"
+divesiteid 0bd928f8
+buddy "Timothy, Karen, Steven"
+suit "Scubapro Scotia"
+cylinder vol=24.0l description="Bi cinzenta" o2=32.0% start=200.0bar
+weightsystem weight=2.0kg description="belt"
+airtemp 25.9°C

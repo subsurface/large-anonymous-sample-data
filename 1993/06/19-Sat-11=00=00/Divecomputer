@@ -1,0 +1,5 @@
+model "Diving Log 5.0"
+deviceid ffffffff
+date 1993-06-16
+time 00:00:00
+maxdepth 18.0m

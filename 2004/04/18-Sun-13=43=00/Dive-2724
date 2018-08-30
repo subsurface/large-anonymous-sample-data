@@ -1,0 +1,9 @@
+duration 45:00 min
+visibility 4
+divesiteid 751d5ac9
+buddy "Dirk, Anna"
+suit "monopeça 2/3 mm"
+cylinder vol=12.0l description="Luxfer" start=200.0bar end=130.0bar
+cylinder vol=10.0l description="Beuchat" start=200.0bar
+weightsystem weight=6.0kg description="unknown"
+airtemp 28.9°C

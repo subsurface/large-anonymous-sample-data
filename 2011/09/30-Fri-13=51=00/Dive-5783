@@ -1,0 +1,9 @@
+duration 11:16 min
+visibility 2
+tags "boat", "photo", "scientific"
+divesiteid b0eca62b
+buddy "Jane, Steven, Anna"
+suit "Scubapro Scotia"
+cylinder vol=12.0l description="Scubapro Uni" o2=32.0% start=150.0bar end=130.0bar
+weightsystem weight=1.0kg description="unknown"
+airtemp 20.9°C

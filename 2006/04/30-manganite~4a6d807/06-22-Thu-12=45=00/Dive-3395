@@ -1,0 +1,8 @@
+duration 68:48 min
+visibility 3
+divesiteid f1eaec3c
+buddy "Marcus, Steven, Timothy"
+suit "Scubapro Scotia"
+cylinder vol=12.0l workpressure=232.0bar description="mono 12" o2=24.0% start=210.0bar end=70.0bar
+weightsystem weight=4.0kg description="integrated"
+airtemp 23.9°C

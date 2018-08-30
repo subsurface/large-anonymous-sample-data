@@ -1,0 +1,8 @@
+duration 81:00 min
+visibility 3
+divesiteid f1eaec3c
+buddy "Anna"
+suit "Scubapro Scotia"
+cylinder vol=12.0l workpressure=232.0bar description="mono 12" o2=32.0% start=200.0bar end=50.0bar
+weightsystem weight=4.0kg description="integrated"
+airtemp 25.9°C

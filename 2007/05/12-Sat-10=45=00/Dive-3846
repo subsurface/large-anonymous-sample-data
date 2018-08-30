@@ -1,0 +1,8 @@
+duration 35:52 min
+visibility 1
+tags "boat", "scientific", "video"
+divesiteid 0bd928f8
+buddy "Johannes, Marcus, David"
+suit "Scubapro Scotia"
+cylinder vol=12.0l workpressure=232.0bar description="mono 12" o2=30.0% he=30.0% start=150.0bar end=70.0bar
+weightsystem weight=4.0kg description="integrated"

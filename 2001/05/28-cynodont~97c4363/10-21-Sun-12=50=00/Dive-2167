@@ -1,0 +1,6 @@
+duration 20:40 min
+tags "boat", "scientific"
+divesiteid d264680d
+buddy "Dirk, Francesco"
+suit "Scubapro S-Tek"
+cylinder vol=10.0l description="air" start=200.0bar end=150.0bar

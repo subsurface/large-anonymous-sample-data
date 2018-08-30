@@ -1,0 +1,7 @@
+duration 40:40 min
+visibility 3
+tags "boat", "guide"
+divesiteid f0b60821
+buddy "Steven, Robert"
+suit "Spirotechnique Alaska"
+cylinder vol=12.0l description="air" start=200.0bar end=140.0bar

@@ -1,0 +1,9 @@
+duration 20:24 min
+visibility 2
+tags "boat", "photo", "scientific"
+divesiteid 51a95c1d
+buddy "Marcus"
+suit "Scubapro Scotia"
+cylinder vol=12.0l workpressure=232.0bar description="Scubapro Uni" o2=32.0% start=200.0bar end=180.0bar
+weightsystem weight=2.0kg description="integrated"
+airtemp 17.9°C

@@ -1,0 +1,10 @@
+duration 46:28 min
+visibility 1
+tags "boat", "photo", "scubidoo"
+divesiteid 75260213
+buddy "Marcus, Anna, Donald"
+suit "Scubapro Scotia"
+cylinder vol=12.0l workpressure=230.0bar description="Mono 12" o2=32.0% start=150.0bar end=150.0bar
+cylinder vol=11.0l description="S080" o2=32.0% start=200.0bar end=50.0bar
+weightsystem weight=2.0kg description="integrated"
+airtemp 26.9°C

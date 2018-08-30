@@ -1,0 +1,8 @@
+duration 62:12 min
+visibility 1
+tags "boat", "student", "training"
+divesiteid 3dfb0e1f
+buddy "Karen, Johannes, Melissa"
+suit "DUI TLS 350"
+cylinder vol=24.0l description="Bi cinzenta" o2=32.0% start=170.0bar end=110.0bar
+weightsystem weight=4.0kg description="belt"

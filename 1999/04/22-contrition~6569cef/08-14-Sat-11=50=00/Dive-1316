@@ -1,0 +1,7 @@
+duration 50:40 min
+visibility 3
+tags "boat", "guide"
+divesiteid 5a40768c
+buddy "Marcus, Karen, Steven"
+suit "Spirotechnique Alaska"
+cylinder vol=12.0l description="air" start=200.0bar end=120.0bar

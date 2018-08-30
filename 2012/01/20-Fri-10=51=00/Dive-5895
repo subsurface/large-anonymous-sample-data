@@ -1,0 +1,9 @@
+duration 56:24 min
+visibility 1
+tags "boat", "scientific"
+divesiteid 0bd928f8
+buddy "Melissa, Steven, Robert"
+suit "DUI TLS 350"
+cylinder vol=24.0l description="Bi amarela" o2=32.0% start=210.0bar end=110.0bar
+weightsystem weight=4.0kg description="belt"
+airtemp 16.9°C

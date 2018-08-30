@@ -1,0 +1,4 @@
+model "Diving Log 5.0"
+deviceid ffffffff
+maxdepth 43.1m
+watertemp 15.8°C

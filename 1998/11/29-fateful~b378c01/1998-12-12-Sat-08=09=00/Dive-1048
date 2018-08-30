@@ -1,0 +1,6 @@
+duration 50:20 min
+tags "boat", "scubidoo"
+divesiteid 2fc1311c
+buddy "Timothy, Donald"
+suit "Quicksilver 2/3"
+cylinder vol=12.0l description="air" start=200.0bar end=50.0bar

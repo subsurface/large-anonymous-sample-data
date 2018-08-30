@@ -1,0 +1,8 @@
+duration 15:40 min
+visibility 1
+tags "freshwater", "scubidoo", "shore"
+divesiteid 1acacdbf
+buddy "Andy, Francesco, Jane"
+suit "Poseidon Unisuit Exclusive"
+cylinder vol=12.0l workpressure=200.0bar description="12L 200 bar" o2=32.0% start=200.0bar end=180.0bar
+weightsystem weight=12.0kg description="belt"

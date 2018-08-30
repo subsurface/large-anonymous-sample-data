@@ -1,0 +1,9 @@
+duration 6:40 min
+visibility 4
+tags "boat", "scientific"
+divesiteid 0bd928f8
+buddy "Timothy, Robert, David"
+suit "Scubapro Scotia"
+cylinder vol=12.0l description="mono 12" o2=32.0% start=140.0bar end=120.0bar
+weightsystem weight=4.0kg description="integrated"
+airtemp 26.9°C

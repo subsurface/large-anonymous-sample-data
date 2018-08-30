@@ -1,0 +1,733 @@
+model "Scubapro G2"
+deviceid 527db371
+diveid 7694ced6
+maxdepth 31.532m
+meandepth 20.153m
+airtemp 23.5°C
+watertemp 21.6°C
+salinity 1025g/l
+event 0:00 type=25 flags=1 name="gaschange" cylinder=0 o2=31.0%
+event 34:04 type=8 name="bookmark"
+event 40:00 type=8 name="bookmark"
+  0:00 0.0m 23.2°C rbt=99:00 heartbeat=127 bearing=319°
+  0:04 5.6m heartbeat=119
+  0:08 6.966m heartbeat=118
+  0:12 8.39m
+  0:16 9.795m 22.8°C heartbeat=117
+  0:20 11.141m heartbeat=118
+  0:24 12.488m heartbeat=113
+  0:28 13.854m heartbeat=103
+  0:32 15.122m heartbeat=108
+  0:36 15.961m heartbeat=103
+  0:40 16.995m heartbeat=108
+  0:44 17.659m heartbeat=94
+  0:48 18.732m heartbeat=104
+  0:52 19.278m heartbeat=108
+  0:56 20.546m heartbeat=98
+  1:00 20.859m heartbeat=105
+  1:04 21.288m heartbeat=103
+  1:08 20.663m heartbeat=120
+  1:12 20.488m heartbeat=106
+  1:16 20.82m heartbeat=107
+  1:20 20.702m heartbeat=99
+  1:24 21.171m heartbeat=103
+  1:28 20.702m 23.2°C heartbeat=109
+  1:32 21.015m heartbeat=114
+  1:36 21.366m heartbeat=112
+  1:40 21.132m heartbeat=98
+  1:44 21.229m heartbeat=97
+  1:48 20.898m heartbeat=120
+  1:52 20.937m heartbeat=106
+  1:56 21.093m heartbeat=110
+  2:00 20.976m heartbeat=107
+  2:04 20.488m
+  2:08 20.507m heartbeat=117
+  2:12 20.683m heartbeat=120
+  2:16 20.741m heartbeat=107
+  2:20 20.429m heartbeat=102
+  2:24 20.254m heartbeat=105
+  2:28 20.605m heartbeat=104
+  2:32 21.054m heartbeat=99
+  2:36 21.19m heartbeat=105
+  2:40 21.463m heartbeat=100
+  2:44 20.937m heartbeat=102
+  2:48 21.054m heartbeat=116
+  2:52 20.644m 23.6°C heartbeat=106
+  2:56 21.229m heartbeat=101
+  3:00 20.898m heartbeat=94
+  3:04 21.346m
+  3:08 21.268m heartbeat=99
+  3:12 21.073m
+  3:16 21.659m
+  3:20 21.795m heartbeat=101
+  3:24 21.854m heartbeat=102
+  3:28 21.58m
+  3:32 22.4m heartbeat=104
+  3:36 22.38m heartbeat=103
+  3:40 22.049m heartbeat=108
+  3:44 22.341m heartbeat=104
+  3:48 21.6m heartbeat=93
+  3:52 22.341m heartbeat=85
+  3:56 22.556m heartbeat=106
+  4:00 22.224m heartbeat=103
+  4:04 22.224m heartbeat=89
+  4:08 22.478m heartbeat=104
+  4:12 22.595m heartbeat=98
+  4:16 22.498m heartbeat=95
+  4:20 22.38m heartbeat=107
+  4:24 22.439m heartbeat=97
+  4:28 22.205m
+  4:32 22.537m heartbeat=98
+  4:36 22.849m heartbeat=101
+  4:40 22.79m heartbeat=97
+  4:44 22.751m heartbeat=96
+  4:48 23.102m
+  4:52 22.693m heartbeat=101
+  4:56 22.966m heartbeat=105
+  5:00 22.868m heartbeat=98
+  5:04 22.985m heartbeat=97
+  5:08 23.005m heartbeat=99
+  5:12 22.985m heartbeat=100
+  5:16 22.751m heartbeat=97
+  5:20 22.302m heartbeat=94
+  5:24 23.102m heartbeat=104
+  5:28 22.81m heartbeat=101
+  5:32 22.946m heartbeat=99
+  5:36 22.868m heartbeat=105
+  5:40 22.751m heartbeat=108
+  5:44 23.102m
+  5:48 22.615m heartbeat=109
+  5:52 23.22m heartbeat=103
+  5:56 23.122m heartbeat=100
+  6:00 22.79m
+  6:04 23.356m heartbeat=108
+  6:08 23.044m heartbeat=104
+  6:12 22.771m heartbeat=101
+  6:16 23.278m heartbeat=105
+  6:20 22.946m heartbeat=98
+  6:24 23.532m heartbeat=101
+  6:28 23.161m heartbeat=102
+  6:32 23.063m
+  6:36 23.22m
+  6:40 23.259m
+  6:44 23.512m heartbeat=101
+  6:48 22.985m
+  6:52 23.083m heartbeat=104
+  6:56 23.239m
+  7:00 23.044m
+  7:04 23.141m
+  7:08 23.22m heartbeat=106
+  7:12 23.707m
+  7:16 23.785m 23.2°C
+  7:20 23.2m 23.6°C heartbeat=100
+  7:24 23.298m heartbeat=97
+  7:28 23.278m heartbeat=96
+  7:32 23.922m 23.2°C heartbeat=97
+  7:36 23.688m heartbeat=92
+  7:40 23.61m heartbeat=86
+  7:44 24.156m heartbeat=102
+  7:48 24.39m heartbeat=103
+  7:52 23.668m heartbeat=99
+  7:56 23.59m heartbeat=96
+  8:00 23.98m heartbeat=101
+  8:04 24.0m heartbeat=100
+  8:08 24.078m heartbeat=94
+  8:12 24.059m heartbeat=100
+  8:16 23.688m heartbeat=95
+  8:20 23.922m 23.6°C heartbeat=101
+  8:24 24.156m 23.2°C heartbeat=93
+  8:28 24.059m heartbeat=95
+  8:32 24.273m heartbeat=87
+  8:36 23.844m heartbeat=94
+  8:40 24.234m
+  8:44 24.39m heartbeat=97
+  8:48 24.39m heartbeat=94
+  8:52 24.429m heartbeat=96
+  8:56 24.312m heartbeat=97
+  9:00 23.961m heartbeat=83
+  9:04 24.312m heartbeat=86
+  9:08 24.468m
+  9:12 24.078m heartbeat=97
+  9:16 24.449m heartbeat=99
+  9:20 24.156m heartbeat=100
+  9:24 24.546m
+  9:28 24.449m
+  9:32 24.429m heartbeat=99
+  9:36 25.151m heartbeat=102
+  9:40 24.878m heartbeat=91
+  9:44 24.702m heartbeat=93
+  9:48 25.288m heartbeat=96
+  9:52 25.249m heartbeat=91
+  9:56 25.522m heartbeat=87
+ 10:00 25.834m heartbeat=88
+ 10:04 25.307m heartbeat=92
+ 10:08 25.327m
+ 10:12 25.366m
+ 10:16 25.21m heartbeat=94
+ 10:20 25.444m heartbeat=87
+ 10:24 25.366m heartbeat=96
+ 10:28 25.639m heartbeat=100
+ 10:32 25.932m heartbeat=98
+ 10:36 26.224m
+ 10:40 25.932m heartbeat=99
+ 10:44 26.459m heartbeat=93
+ 10:48 26.732m heartbeat=96
+ 10:52 27.18m heartbeat=97
+ 10:56 26.771m heartbeat=94
+ 11:00 26.712m heartbeat=91
+ 11:04 27.083m heartbeat=97
+ 11:08 26.556m heartbeat=90
+ 11:12 26.107m heartbeat=94
+ 11:16 26.498m heartbeat=95
+ 11:20 26.849m heartbeat=99
+ 11:24 26.595m
+ 11:28 25.971m heartbeat=100
+ 11:32 26.205m heartbeat=98
+ 11:36 25.639m heartbeat=96
+ 11:40 25.151m heartbeat=94
+ 11:44 25.132m heartbeat=98
+ 11:48 24.663m heartbeat=93
+ 11:52 25.268m heartbeat=98
+ 11:56 24.976m
+ 12:00 24.78m heartbeat=95
+ 12:04 25.21m heartbeat=101
+ 12:08 25.229m heartbeat=97
+ 12:12 25.346m heartbeat=90
+ 12:16 25.19m heartbeat=94
+ 12:20 25.444m heartbeat=95
+ 12:24 24.683m
+ 12:28 25.483m heartbeat=92
+ 12:32 25.561m
+ 12:36 25.815m
+ 12:40 25.307m heartbeat=94
+ 12:44 24.722m heartbeat=95
+ 12:48 24.351m
+ 12:52 24.293m heartbeat=92
+ 12:56 24.683m heartbeat=97
+ 13:00 24.156m
+ 13:04 24.234m
+ 13:08 24.293m
+ 13:12 24.527m heartbeat=100
+ 13:16 24.702m heartbeat=96
+ 13:20 24.566m
+ 13:24 24.546m
+ 13:28 24.371m heartbeat=98
+ 13:32 23.824m heartbeat=97
+ 13:36 23.805m heartbeat=96
+ 13:40 23.707m heartbeat=98
+ 13:44 23.18m heartbeat=97
+ 13:48 22.907m heartbeat=95
+ 13:52 22.615m heartbeat=98
+ 13:56 22.224m heartbeat=97
+ 14:00 21.776m heartbeat=94
+ 14:04 21.698m heartbeat=95
+ 14:08 21.854m heartbeat=97
+ 14:12 21.6m
+ 14:16 20.937m heartbeat=98
+ 14:20 21.307m heartbeat=99
+ 14:24 20.917m heartbeat=94
+ 14:28 20.859m heartbeat=93
+ 14:32 20.82m heartbeat=96
+ 14:36 20.722m heartbeat=94
+ 14:40 20.429m heartbeat=99
+ 14:44 20.644m heartbeat=96
+ 14:48 20.41m heartbeat=99
+ 14:52 20.117m heartbeat=101
+ 14:56 19.902m heartbeat=97
+ 15:00 19.532m heartbeat=102
+ 15:04 19.746m
+ 15:08 19.961m heartbeat=97
+ 15:12 20.098m heartbeat=92
+ 15:16 20.371m heartbeat=98
+ 15:20 20.254m heartbeat=97
+ 15:24 20.41m heartbeat=88
+ 15:28 20.702m heartbeat=94
+ 15:32 20.8m heartbeat=97
+ 15:36 21.19m heartbeat=89
+ 15:40 21.034m heartbeat=91
+ 15:44 21.912m heartbeat=93
+ 15:48 21.834m
+ 15:52 21.327m heartbeat=89
+ 15:56 21.737m heartbeat=93
+ 16:00 21.522m heartbeat=97
+ 16:04 21.659m
+ 16:08 22.068m
+ 16:12 21.62m heartbeat=90
+ 16:16 21.541m
+ 16:20 21.893m heartbeat=98
+ 16:24 21.815m
+ 16:28 21.971m heartbeat=101
+ 16:32 21.776m
+ 16:36 21.62m heartbeat=96
+ 16:40 21.522m heartbeat=94
+ 16:44 22.107m heartbeat=98
+ 16:48 21.795m heartbeat=96
+ 16:52 21.502m heartbeat=89
+ 16:56 21.893m heartbeat=94
+ 17:00 22.146m heartbeat=95
+ 17:04 22.185m heartbeat=85
+ 17:08 22.205m heartbeat=87
+ 17:12 22.01m heartbeat=94
+ 17:16 22.302m heartbeat=88
+ 17:20 22.029m heartbeat=92
+ 17:24 22.38m heartbeat=96
+ 17:28 22.205m heartbeat=88
+ 17:32 22.01m heartbeat=94
+ 17:36 21.971m heartbeat=93
+ 17:40 22.068m heartbeat=87
+ 17:44 22.205m heartbeat=97
+ 17:48 21.873m heartbeat=89
+ 17:52 21.385m heartbeat=94
+ 17:56 22.322m heartbeat=95
+ 18:00 22.38m heartbeat=97
+ 18:04 22.478m heartbeat=95
+ 18:08 22.283m heartbeat=96
+ 18:12 22.634m heartbeat=95
+ 18:16 22.185m heartbeat=93
+ 18:20 22.302m heartbeat=96
+ 18:24 22.615m heartbeat=88
+ 18:28 22.361m heartbeat=92
+ 18:32 22.771m heartbeat=87
+ 18:36 22.107m heartbeat=90
+ 18:40 22.361m heartbeat=95
+ 18:44 21.776m heartbeat=96
+ 18:48 21.893m heartbeat=95
+ 18:52 21.912m heartbeat=96
+ 18:56 22.049m heartbeat=97
+ 19:00 21.678m heartbeat=94
+ 19:04 22.263m heartbeat=90
+ 19:08 21.99m heartbeat=91
+ 19:12 21.893m heartbeat=89
+ 19:16 21.834m heartbeat=88
+ 19:20 22.283m heartbeat=93
+ 19:24 22.634m heartbeat=95
+ 19:28 22.322m heartbeat=91
+ 19:32 22.517m heartbeat=90
+ 19:36 22.868m heartbeat=95
+ 19:40 22.712m heartbeat=90
+ 19:44 23.395m heartbeat=83
+ 19:48 22.966m heartbeat=90
+ 19:52 23.122m heartbeat=89
+ 19:56 22.751m heartbeat=83
+ 20:00 23.005m heartbeat=91
+ 20:04 23.395m heartbeat=95
+ 20:08 22.868m heartbeat=91
+ 20:12 23.005m heartbeat=87
+ 20:16 23.259m heartbeat=94
+ 20:20 23.551m heartbeat=92
+ 20:24 23.356m heartbeat=89
+ 20:28 23.083m heartbeat=90
+ 20:32 23.532m
+ 20:36 23.024m heartbeat=99
+ 20:40 22.888m heartbeat=95
+ 20:44 22.79m heartbeat=98
+ 20:48 23.298m heartbeat=96
+ 20:52 23.005m heartbeat=92
+ 20:56 22.517m heartbeat=91
+ 21:00 22.907m
+ 21:04 22.732m heartbeat=97
+ 21:08 22.498m heartbeat=91
+ 21:12 22.439m heartbeat=95
+ 21:16 22.556m heartbeat=97
+ 21:20 22.868m heartbeat=93
+ 21:24 22.654m heartbeat=87
+ 21:28 22.829m heartbeat=98
+ 21:32 22.966m heartbeat=97
+ 21:36 22.42m heartbeat=99
+ 21:40 22.498m heartbeat=96
+ 21:44 22.459m heartbeat=99
+ 21:48 22.771m heartbeat=100
+ 21:52 22.615m
+ 21:56 22.224m heartbeat=96
+ 22:00 22.38m
+ 22:04 22.459m heartbeat=98
+ 22:08 21.912m heartbeat=87
+ 22:12 21.795m heartbeat=92
+ 22:16 21.717m heartbeat=98
+ 22:20 21.229m heartbeat=101
+ 22:24 21.483m heartbeat=100
+ 22:28 22.068m heartbeat=101
+ 22:32 22.01m heartbeat=98
+ 22:36 21.698m heartbeat=86
+ 22:40 22.244m heartbeat=89
+ 22:44 22.068m heartbeat=97
+ 22:48 21.815m heartbeat=89
+ 22:52 22.244m heartbeat=97
+ 22:56 22.107m heartbeat=95
+ 23:00 22.049m
+ 23:04 22.244m heartbeat=92
+ 23:08 21.659m heartbeat=100
+ 23:12 21.737m heartbeat=95
+ 23:16 21.834m heartbeat=97
+ 23:20 21.6m heartbeat=99
+ 23:24 21.171m heartbeat=97
+ 23:28 21.502m heartbeat=94
+ 23:32 21.795m heartbeat=90
+ 23:36 21.815m heartbeat=96
+ 23:40 21.19m heartbeat=92
+ 23:44 21.483m heartbeat=98
+ 23:48 21.776m heartbeat=103
+ 23:52 21.366m heartbeat=98
+ 23:56 21.463m heartbeat=99
+ 24:00 21.58m heartbeat=101
+ 24:04 21.541m heartbeat=99
+ 24:08 22.283m heartbeat=94
+ 24:12 22.146m heartbeat=93
+ 24:16 22.868m heartbeat=92
+ 24:20 23.629m heartbeat=98
+ 24:24 24.41m heartbeat=100
+ 24:28 25.327m heartbeat=99
+ 24:32 25.249m heartbeat=98
+ 24:36 26.107m heartbeat=94
+ 24:40 26.732m heartbeat=95
+ 24:44 26.927m heartbeat=98
+ 24:48 27.278m heartbeat=92
+ 24:52 27.22m heartbeat=89
+ 24:56 26.849m heartbeat=95
+ 25:00 26.966m
+ 25:04 26.751m
+ 25:08 27.278m heartbeat=99
+ 25:12 28.176m heartbeat=101
+ 25:16 28.0m heartbeat=96
+ 25:20 28.722m heartbeat=94
+ 25:24 29.58m heartbeat=99
+ 25:28 30.302m heartbeat=91
+ 25:32 30.946m heartbeat=89
+ 25:36 30.829m heartbeat=98
+ 25:40 30.81m heartbeat=90
+ 25:44 31.512m heartbeat=88
+ 25:48 30.79m
+ 25:52 30.615m
+ 25:56 30.478m
+ 26:00 30.985m heartbeat=89
+ 26:04 30.966m heartbeat=90
+ 26:08 30.712m
+ 26:12 30.81m heartbeat=94
+ 26:16 30.712m heartbeat=98
+ 26:20 30.946m heartbeat=99
+ 26:24 30.634m heartbeat=100
+ 26:28 31.044m
+ 26:32 31.063m
+ 26:36 30.946m
+ 26:40 31.024m heartbeat=96
+ 26:44 30.751m heartbeat=99
+ 26:48 30.868m heartbeat=97
+ 26:52 31.024m heartbeat=99
+ 26:56 30.615m heartbeat=95
+ 27:00 30.537m heartbeat=93
+ 27:04 30.517m
+ 27:08 30.673m heartbeat=99
+ 27:12 30.712m heartbeat=96
+ 27:16 30.517m heartbeat=92
+ 27:20 30.927m
+ 27:24 30.478m
+ 27:28 30.927m
+ 27:32 30.946m
+ 27:36 30.595m
+ 27:40 31.024m
+ 27:44 30.985m
+ 27:48 30.849m
+ 27:52 30.673m
+ 27:56 30.849m
+ 28:00 30.673m
+ 28:04 30.4m
+ 28:08 30.654m
+ 28:12 30.185m heartbeat=105
+ 28:16 30.068m heartbeat=108
+ 28:20 30.4m heartbeat=99
+ 28:24 29.717m heartbeat=95
+ 28:28 29.737m heartbeat=88
+ 28:32 29.385m heartbeat=94
+ 28:36 29.112m heartbeat=101
+ 28:40 29.093m heartbeat=95
+ 28:44 28.722m heartbeat=92
+ 28:48 29.327m heartbeat=99
+ 28:52 28.702m heartbeat=100
+ 28:56 28.8m
+ 29:00 29.19m
+ 29:04 28.839m heartbeat=97
+ 29:08 28.351m heartbeat=89
+ 29:12 27.766m heartbeat=99
+ 29:16 27.688m heartbeat=90
+ 29:20 27.18m heartbeat=86
+ 29:24 26.81m heartbeat=85
+ 29:28 27.259m heartbeat=88
+ 29:32 26.576m heartbeat=91
+ 29:36 27.005m heartbeat=98
+ 29:40 27.063m heartbeat=97
+ 29:44 27.2m heartbeat=90
+ 29:48 27.18m heartbeat=79
+ 29:52 26.946m heartbeat=83
+ 29:56 26.829m heartbeat=88
+ 30:00 26.088m heartbeat=92
+ 30:04 26.224m heartbeat=91
+ 30:08 25.698m heartbeat=93
+ 30:12 25.815m heartbeat=87
+ 30:16 26.068m heartbeat=96
+ 30:20 25.171m heartbeat=93
+ 30:24 25.112m heartbeat=94
+ 30:28 25.132m heartbeat=93
+ 30:32 24.722m
+ 30:36 24.234m heartbeat=88
+ 30:40 23.493m heartbeat=95
+ 30:44 23.376m heartbeat=100
+ 30:48 23.239m heartbeat=97
+ 30:52 23.024m heartbeat=103
+ 30:56 22.595m heartbeat=97
+ 31:00 22.81m heartbeat=95
+ 31:04 22.166m
+ 31:08 21.971m
+ 31:12 21.58m heartbeat=96
+ 31:16 21.424m heartbeat=97
+ 31:20 21.288m heartbeat=94
+ 31:24 21.424m heartbeat=96
+ 31:28 21.522m heartbeat=93
+ 31:32 20.859m heartbeat=83
+ 31:36 21.288m heartbeat=89
+ 31:40 20.976m heartbeat=93
+ 31:44 21.015m heartbeat=90
+ 31:48 21.054m heartbeat=91
+ 31:52 20.917m heartbeat=92
+ 31:56 20.449m heartbeat=91
+ 32:00 20.683m
+ 32:04 20.351m heartbeat=94
+ 32:08 20.312m heartbeat=92
+ 32:12 20.137m heartbeat=89
+ 32:16 20.0m heartbeat=92
+ 32:20 20.137m heartbeat=87
+ 32:24 20.312m heartbeat=91
+ 32:28 20.137m heartbeat=88
+ 32:32 20.02m
+ 32:36 19.922m heartbeat=89
+ 32:40 19.688m
+ 32:44 20.117m
+ 32:48 19.883m heartbeat=88
+ 32:52 19.863m
+ 32:56 19.824m heartbeat=92
+ 33:00 19.922m heartbeat=96
+ 33:04 19.707m heartbeat=85
+ 33:08 19.668m heartbeat=89
+ 33:12 19.59m heartbeat=94
+ 33:16 19.688m heartbeat=81
+ 33:20 19.824m heartbeat=84
+ 33:24 19.649m heartbeat=87
+ 33:28 20.137m heartbeat=86
+ 33:32 19.571m heartbeat=82
+ 33:36 20.351m heartbeat=93
+ 33:40 20.234m heartbeat=91
+ 33:44 21.093m heartbeat=94
+ 33:48 20.82m
+ 33:52 20.898m heartbeat=99
+ 33:56 20.273m heartbeat=98
+ 34:00 20.156m heartbeat=93
+ 34:04 19.863m heartbeat=97
+ 34:08 19.337m
+ 34:12 19.122m
+ 34:16 19.083m heartbeat=98
+ 34:20 18.595m heartbeat=86
+ 34:24 17.502m heartbeat=83
+ 34:28 17.151m heartbeat=92
+ 34:32 16.976m heartbeat=97
+ 34:36 16.605m heartbeat=92
+ 34:40 16.585m heartbeat=98
+ 34:44 15.961m heartbeat=92
+ 34:48 15.688m heartbeat=87
+ 34:52 15.356m heartbeat=93
+ 34:56 15.278m heartbeat=95
+ 35:00 15.395m heartbeat=98
+ 35:04 15.824m heartbeat=93
+ 35:08 15.298m heartbeat=89
+ 35:12 15.844m heartbeat=90
+ 35:16 15.746m heartbeat=95
+ 35:20 15.493m heartbeat=90
+ 35:24 15.883m heartbeat=93
+ 35:28 15.668m heartbeat=92
+ 35:32 15.278m heartbeat=90
+ 35:36 15.278m heartbeat=92
+ 35:40 14.712m heartbeat=97
+ 35:44 14.42m heartbeat=91
+ 35:48 13.795m heartbeat=95
+ 35:52 13.483m heartbeat=90
+ 35:56 13.385m heartbeat=85
+ 36:00 13.346m heartbeat=95
+ 36:04 13.483m heartbeat=93
+ 36:08 13.21m heartbeat=91
+ 36:12 12.605m heartbeat=94
+ 36:16 12.683m heartbeat=93
+ 36:20 12.273m heartbeat=83
+ 36:24 12.332m
+ 36:28 12.176m heartbeat=93
+ 36:32 12.02m heartbeat=85
+ 36:36 11.766m heartbeat=94
+ 36:40 11.473m heartbeat=92
+ 36:44 11.161m heartbeat=81
+ 36:48 11.18m
+ 36:52 10.732m heartbeat=87
+ 36:56 10.4m heartbeat=89
+ 37:00 10.498m heartbeat=97
+ 37:04 10.166m heartbeat=93
+ 37:08 9.522m heartbeat=90
+ 37:12 9.444m heartbeat=92
+ 37:16 9.327m
+ 37:20 8.663m heartbeat=90
+ 37:24 8.468m heartbeat=93
+ 37:28 8.488m heartbeat=96
+ 37:32 7.922m heartbeat=87
+ 37:36 7.707m heartbeat=93
+ 37:40 7.161m heartbeat=92
+ 37:44 6.634m
+ 37:48 6.498m heartbeat=96
+ 37:52 5.951m heartbeat=98
+ 37:56 5.561m
+ 38:00 5.112m heartbeat=94
+ 38:04 4.683m heartbeat=90
+ 38:08 4.683m heartbeat=96
+ 38:12 4.624m heartbeat=97
+ 38:16 4.859m heartbeat=95
+ 38:20 5.112m heartbeat=100
+ 38:24 5.444m heartbeat=103
+ 38:28 5.171m heartbeat=94
+ 38:32 4.937m heartbeat=86
+ 38:36 4.898m heartbeat=93
+ 38:40 4.429m heartbeat=88
+ 38:44 4.507m heartbeat=86
+ 38:48 4.527m heartbeat=93
+ 38:52 4.312m heartbeat=85
+ 38:56 4.566m
+ 39:00 4.566m heartbeat=91
+ 39:04 4.351m heartbeat=82
+ 39:08 4.683m heartbeat=89
+ 39:12 4.722m heartbeat=88
+ 39:16 4.605m heartbeat=80
+ 39:20 4.702m heartbeat=89
+ 39:24 4.293m heartbeat=88
+ 39:28 4.254m heartbeat=85
+ 39:32 4.293m heartbeat=92
+ 39:36 4.254m heartbeat=88
+ 39:40 4.741m heartbeat=85
+ 39:44 4.976m heartbeat=91
+ 39:48 4.8m heartbeat=84
+ 39:52 5.093m heartbeat=88
+ 39:56 4.761m
+ 40:00 4.663m heartbeat=89
+ 40:04 4.546m heartbeat=93
+ 40:08 4.156m heartbeat=91
+ 40:12 3.922m heartbeat=93
+ 40:16 3.649m heartbeat=94
+ 40:20 3.941m heartbeat=95
+ 40:24 3.922m heartbeat=96
+ 40:28 4.156m heartbeat=91
+ 40:32 4.039m heartbeat=93
+ 40:36 3.61m heartbeat=86
+ 40:40 3.61m heartbeat=87
+ 40:44 3.824m heartbeat=91
+ 40:48 3.629m heartbeat=81
+ 40:52 4.0m heartbeat=79
+ 40:56 3.844m heartbeat=83
+ 41:00 3.805m heartbeat=74
+ 41:04 4.0m heartbeat=83
+ 41:08 4.215m heartbeat=82
+ 41:12 4.078m
+ 41:16 3.688m heartbeat=83
+ 41:20 3.454m heartbeat=84
+ 41:24 3.434m heartbeat=91
+ 41:28 3.649m heartbeat=84
+ 41:32 3.707m heartbeat=89
+ 41:36 3.434m heartbeat=87
+ 41:40 3.356m heartbeat=86
+ 41:44 3.434m heartbeat=92
+ 41:48 3.493m heartbeat=89
+ 41:52 3.532m
+ 41:56 3.629m heartbeat=86
+ 42:00 3.61m heartbeat=85
+ 42:04 3.395m heartbeat=87
+ 42:08 3.493m heartbeat=91
+ 42:12 3.063m heartbeat=88
+ 42:16 2.849m heartbeat=86
+ 42:20 2.81m heartbeat=90
+ 42:24 2.341m heartbeat=89
+ 42:28 2.166m heartbeat=85
+ 42:32 1.951m heartbeat=90
+ 42:36 1.971m heartbeat=86
+ 42:40 1.854m heartbeat=88
+ 42:44 1.698m heartbeat=82
+ 42:48 1.698m heartbeat=87
+ 42:52 1.756m heartbeat=90
+ 42:56 1.6m heartbeat=83
+ 43:00 1.541m heartbeat=87
+ 43:04 1.015m heartbeat=92
+ 43:08 0.371m heartbeat=89
+ 43:12 0.41m heartbeat=94
+ 43:16 0.117m heartbeat=93
+ 43:20 0.117m heartbeat=97
+ 43:24 0.117m heartbeat=100
+ 43:28 0.098m
+ 43:32 0.176m heartbeat=102
+ 43:36 0.254m
+ 43:40 0.254m heartbeat=101
+ 43:44 0.273m
+ 43:48 0.234m
+ 43:52 0.02m heartbeat=102
+ 43:56 0.078m heartbeat=108
+ 44:00 0.039m heartbeat=111
+ 44:04 0.059m heartbeat=110
+ 44:08 0.039m 22.8°C heartbeat=109
+ 44:12 0.02m heartbeat=108
+ 44:16 0.195m heartbeat=109
+ 44:20 0.156m heartbeat=115
+ 44:24 0.176m
+ 44:28 0.039m heartbeat=112
+ 44:32 0.195m
+ 44:36 0.351m heartbeat=115
+ 44:40 0.02m heartbeat=118
+ 44:44 0.215m heartbeat=119
+ 44:48 0.059m heartbeat=117
+ 44:52 0.0m
+ 44:56 0.02m 22.4°C heartbeat=115
+ 45:00 0.02m heartbeat=125
+ 45:04 0.02m heartbeat=127
+ 45:08 0.039m heartbeat=143
+ 45:12 0.059m heartbeat=142
+ 45:16 0.02m heartbeat=140
+ 45:20 0.039m heartbeat=138
+ 45:24 0.02m heartbeat=136
+ 45:28 0.039m heartbeat=138
+ 45:32 0.039m 22.0°C heartbeat=137
+ 45:36 0.02m heartbeat=136
+ 45:40 0.02m heartbeat=138
+ 45:44 0.02m heartbeat=141
+ 45:48 0.039m
+ 45:52 0.059m heartbeat=152
+ 45:56 0.039m heartbeat=155
+ 46:00 0.039m heartbeat=156
+ 46:04 0.039m heartbeat=155
+ 46:08 0.039m heartbeat=154
+ 46:12 0.039m heartbeat=148
+ 46:16 0.039m heartbeat=141
+ 46:20 0.059m 21.6°C heartbeat=138
+ 46:24 0.039m heartbeat=133
+ 46:28 0.02m heartbeat=128
+ 46:32 0.039m heartbeat=127
+ 46:36 0.02m heartbeat=128
+ 46:40 0.039m heartbeat=130
+ 46:44 0.039m heartbeat=129
+ 46:48 0.039m heartbeat=123
+ 46:52 0.02m heartbeat=126
+ 46:56 0.039m heartbeat=122
+ 47:00 0.039m heartbeat=126
+ 47:04 0.02m heartbeat=123
+ 47:08 0.02m heartbeat=116
+ 47:12 0.02m heartbeat=115
+ 47:16 0.0m heartbeat=109
+ 47:20 0.0m heartbeat=106
+ 47:24 0.0m 22.0°C heartbeat=112
+ 47:28 0.02m heartbeat=99
+ 47:32 0.02m
+ 47:36 0.02m heartbeat=107
+ 47:40 0.02m
+ 47:44 0.0m 21.6°C heartbeat=105
+ 47:48 0.059m heartbeat=112
+ 47:52 0.039m heartbeat=107
+ 47:56 0.039m heartbeat=111
+ 48:00 0.02m heartbeat=117
+ 48:04 0.02m heartbeat=114

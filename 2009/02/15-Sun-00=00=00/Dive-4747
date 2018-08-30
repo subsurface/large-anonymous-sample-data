@@ -1,0 +1,8 @@
+visibility 1
+tags "boat", "scubidoo", "tech1"
+divesiteid 05a4d331
+buddy "Francesco, Donald, Karen"
+suit "DUI TLS 350"
+cylinder vol=24.0l workpressure=232.0bar description="Bi amarela" o2=30.0% he=30.0% start=200.0bar end=100.0bar
+cylinder vol=5.5l workpressure=232.0bar description="S40" o2=50.0% start=200.0bar end=170.0bar
+weightsystem weight=4.0kg description="belt"

@@ -1,0 +1,10 @@
+duration 4:16 min
+visibility 4
+tags "boat", "scientific"
+divesiteid 0bd928f8
+buddy "Karen"
+suit "Scubapro Scotia"
+cylinder vol=7.0l description="Deco 7 l" o2=52.0% start=200.0bar
+cylinder vol=12.0l description="Scubapro Uni" o2=32.0% start=220.0bar end=220.0bar
+weightsystem weight=2.0kg description="integrated"
+airtemp 29.9°C

@@ -1,0 +1,7 @@
+duration 36:00 min
+visibility 3
+tags "boat", "guide"
+divesiteid a6a7d2cf
+buddy "Johannes"
+suit "Spirotechnique Alaska"
+cylinder vol=12.0l description="air" start=200.0bar end=110.0bar

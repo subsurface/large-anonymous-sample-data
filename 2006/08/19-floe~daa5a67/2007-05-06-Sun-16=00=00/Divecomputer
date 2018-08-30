@@ -1,0 +1,5 @@
+model "ADL Conduit"
+deviceid ffffffff
+maxdepth 41.0m
+watertemp 14.9°C
+event 42:49 type=11 value=50 name="gaschange" cylinder=1 o2=50.0%

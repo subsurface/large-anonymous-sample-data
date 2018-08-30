@@ -1,0 +1,9 @@
+model "manually added dive"
+maxdepth 21.0m
+meandepth 17.853m
+  0:00 0.0m
+  1:00 21.0m
+ 41:00 21.0m
+ 46:00 7.0m
+ 53:00 6.0m
+ 54:20 0.0m

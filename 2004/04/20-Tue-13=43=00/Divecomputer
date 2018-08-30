@@ -1,0 +1,6 @@
+model "ADL Conduit"
+deviceid ffffffff
+date 2004-02-27
+time 11:00:00
+maxdepth 22.0m
+watertemp 24.9°C

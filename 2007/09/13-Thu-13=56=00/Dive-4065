@@ -1,0 +1,9 @@
+duration 17:32 min
+visibility 1
+tags "boat", "scientific"
+divesiteid 51f02168
+buddy "Jane, Francesco, Marcus"
+suit "Scubapro Scotia"
+cylinder vol=12.0l description="Scubapro Uni" o2=32.0% start=115.0bar end=80.0bar
+weightsystem weight=2.0kg description="unknown"
+airtemp 22.9°C

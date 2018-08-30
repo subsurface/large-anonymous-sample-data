@@ -1,0 +1,9 @@
+duration 7:48 min
+visibility 3
+tags "boat", "scientific"
+divesiteid 0bd928f8
+buddy "Anna"
+suit "Scubapro Scotia"
+cylinder vol=12.0l description="mono 12" o2=32.0% start=210.0bar
+weightsystem weight=2.0kg description="integrated"
+airtemp 29.9°C

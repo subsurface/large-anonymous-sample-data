@@ -1,0 +1,10 @@
+duration 68:56 min
+visibility 1
+tags "boat", "photo", "scubidoo"
+divesiteid 963daaf8
+buddy "Anna, Steven"
+suit "DUI TLS 350"
+cylinder vol=24.0l workpressure=232.0bar description="Bi amarela" o2=18.0% he=45.0% start=100.0bar end=70.0bar
+cylinder vol=11.0l workpressure=200.0bar description="S080" o2=50.0% start=100.0bar end=30.0bar
+weightsystem weight=4.0kg description="belt"
+airtemp 33.9°C

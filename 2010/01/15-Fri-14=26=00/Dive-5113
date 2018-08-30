@@ -1,0 +1,10 @@
+duration 45:00 min
+visibility 2
+tags "boat", "photo", "scubidoo"
+divesiteid 8e1d5bf7
+buddy "Jane"
+suit "DUI TLS 350"
+cylinder vol=24.0l workpressure=230.0bar description="Bi cinzenta" o2=32.0% start=90.0bar end=70.0bar
+cylinder vol=11.0l workpressure=200.0bar description="S080" o2=32.0% start=200.0bar end=120.0bar
+weightsystem weight=4.0kg description="belt"
+airtemp 31.9°C

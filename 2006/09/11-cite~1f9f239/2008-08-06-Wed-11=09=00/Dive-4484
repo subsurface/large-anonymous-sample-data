@@ -1,0 +1,9 @@
+duration 3:12 min
+visibility 4
+tags "boat", "scientific"
+divesiteid 0bd928f8
+buddy "Steven, Anna, Francesco"
+suit "Scubapro Scotia"
+cylinder vol=24.0l description="Bi cinzenta" o2=32.0% start=80.0bar end=60.0bar
+weightsystem weight=4.0kg description="integrated"
+airtemp 24.9°C

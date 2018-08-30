@@ -1,0 +1,9 @@
+duration 42:04 min
+visibility 5
+tags "boat", "photo", "scubidoo", "wreck"
+divesiteid 8c1e014b
+buddy "Donald"
+suit "Scubapro Scotia"
+cylinder vol=12.0l description="air" start=190.0bar end=110.0bar
+weightsystem weight=4.0kg description="integrated"
+airtemp 21.9°C

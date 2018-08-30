@@ -1,0 +1,9 @@
+duration 27:28 min
+visibility 1
+tags "boat"
+divesiteid e56a6ce1
+buddy "Andy, Donald, Melissa"
+suit "DUI TLS 350"
+cylinder vol=24.0l description="Bi cinzenta" o2=32.0% start=130.0bar end=80.0bar
+weightsystem weight=4.0kg description="belt"
+airtemp 18.9°C

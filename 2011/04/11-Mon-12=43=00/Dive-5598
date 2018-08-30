@@ -1,0 +1,10 @@
+duration 38:36 min
+visibility 2
+tags "boat", "photo", "scubidoo"
+divesiteid 08108dfc
+buddy "Melissa, Marcus"
+suit "Scubapro Scotia"
+cylinder vol=24.0l workpressure=232.0bar description="Bi amarela" o2=17.0% he=45.0% start=140.0bar end=80.0bar
+cylinder vol=5.5l workpressure=200.0bar description="S040" o2=100.0% start=185.0bar end=160.0bar
+weightsystem weight=2.0kg description="integrated"
+airtemp 25.9°C

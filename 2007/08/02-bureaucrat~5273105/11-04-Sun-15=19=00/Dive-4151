@@ -1,0 +1,8 @@
+duration 9:24 min
+visibility 2
+tags "boat", "scientific"
+divesiteid 0bd928f8
+buddy "Robert, Andy, Anna"
+suit "Scubapro Scotia"
+cylinder start=200.0bar
+weightsystem weight=2.0kg description="integrated"

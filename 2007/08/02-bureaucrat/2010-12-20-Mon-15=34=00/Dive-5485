@@ -1,0 +1,8 @@
+duration 22:20 min
+visibility 2
+tags "boat", "scientific"
+divesiteid 0bd928f8
+buddy "Steven, David, Anna"
+suit "Scubapro Scotia"
+cylinder vol=12.0l description="Scubapro Uni" o2=32.0% start=220.0bar
+weightsystem weight=2.0kg description="integrated"

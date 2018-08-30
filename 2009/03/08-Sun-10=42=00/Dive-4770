@@ -1,0 +1,8 @@
+duration 53:40 min
+visibility 1
+divesiteid f8a21e21
+buddy "Andy, Karen"
+suit "DUI TLS 350"
+cylinder vol=24.0l workpressure=230.0bar description="Bi cinzenta" o2=32.0% start=210.0bar end=130.0bar
+weightsystem weight=4.0kg description="belt"
+airtemp 20.9°C

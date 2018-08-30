@@ -1,0 +1,9 @@
+duration 6:08 min
+visibility 3
+tags "boat", "scientific"
+divesiteid 0bd928f8
+buddy "Anna, Steven"
+suit "Scubapro Scotia"
+cylinder vol=15.0l description="15 l Dive Spot" start=80.0bar end=60.0bar
+weightsystem weight=4.0kg description="integrated"
+airtemp 22.9°C

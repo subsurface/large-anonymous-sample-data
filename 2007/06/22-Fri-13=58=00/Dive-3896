@@ -1,0 +1,10 @@
+duration 36:04 min
+visibility 1
+tags "boat", "scubidoo"
+divesiteid 75260213
+buddy "Robert, Melissa"
+suit "DUI TLS 350"
+cylinder vol=24.0l description="Bi amarela" o2=18.0% he=45.0% start=110.0bar end=90.0bar
+cylinder vol=11.0l description="S080" o2=50.0% start=90.0bar end=30.0bar
+weightsystem weight=4.0kg description="belt"
+airtemp 25.9°C

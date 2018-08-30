@@ -1,0 +1,12 @@
+model "manually added dive"
+date 2006-01-21
+time 06:27:42
+duration 36:20min
+maxdepth 31.0m
+meandepth 24.427m
+  0:00 0.0m
+  3:00 31.0m
+ 27:00 29.0m
+ 33:00 6.0m
+ 35:00 6.0m
+ 36:20 0.0m

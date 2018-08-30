@@ -1,0 +1,14 @@
+version 3
+divecomputerid "Scubapro G2" deviceid=042f6412 nickname="Scubapro G2 (42f6412)"
+divecomputerid "Scubapro G2" deviceid=527db371 nickname="Scubapro G2 (527db371)"
+divecomputerid "Uwatec Aladin 2G" deviceid=96c0a79a nickname="Uwatec Aladin 2G (96c0a79a)"
+divecomputerid "Uwatec Aladin Tec 2G" deviceid=96c0a79a nickname="Uwatec Aladin Tec 2G (96c0a79a)"
+divecomputerid "Reefnet Sensus Ultra" deviceid=dabb9f8a nickname="Reefnet Sensus Ultra (dabb9f8a)"
+divecomputerid "Uwatec Aladin 2G" deviceid=f1881402 nickname="Uwatec Aladin 2G (f1881402)"
+divecomputerid "Uwatec Aladin Tec 2G" deviceid=f1881402 nickname="Uwatec Aladin Tec 2G (f1881402)"
+divecomputerid "Reefnet Sensus Ultra" deviceid=f1f30f12 nickname="Reefnet Sensus Ultra (f1f30f12)"
+divecomputerid "ADL Conduit" deviceid=ffffffff serial="1.1"
+divecomputerid "Diving Log 5.0" deviceid=ffffffff serial="5.0.10.0" firmware="Sven Knoch"
+units METRIC
+prefs TANKBAR
+prefs DCCEILING

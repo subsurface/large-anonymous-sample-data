@@ -1,0 +1,12 @@
+duration 45:32 min
+visibility 1
+tags "Decompression", "deep", "freshwater", "scooter", "shore"
+divesiteid e78156d9
+buddy "Johannes"
+suit "DUI TLS 350"
+cylinder vol=24.0l description="Bi cinzenta" o2=21.0% he=35.0% start=200.0bar end=170.0bar
+cylinder vol=7.0l workpressure=232.0bar description="Deco 7 l" o2=50.0% start=200.0bar end=150.0bar
+cylinder vol=11.0l description="S080" o2=21.0% he=35.0% start=200.0bar end=50.0bar
+cylinder vol=5.0l description="S040" o2=100.0% start=190.0bar end=190.0bar
+weightsystem weight=4.0kg description="belt"
+airtemp 18.9°C

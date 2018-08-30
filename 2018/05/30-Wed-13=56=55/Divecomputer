@@ -1,0 +1,223 @@
+model "Scubapro G2"
+deviceid 527db371
+diveid f6cbdb8f
+maxdepth 8.722m
+meandepth 7.6m
+airtemp 26.8°C
+watertemp 20.8°C
+salinity 1025g/l
+event 0:00 type=25 flags=1 name="gaschange" cylinder=0
+  0:00 0.0m 27.2°C rbt=99:00 heartbeat=107 bearing=287°
+  0:04 1.541m 26.8°C heartbeat=108
+  0:08 2.907m heartbeat=114
+  0:12 3.883m heartbeat=119
+  0:16 4.78m heartbeat=120
+  0:20 5.639m 26.4°C heartbeat=114
+  0:24 6.634m heartbeat=118
+  0:28 7.434m heartbeat=116
+  0:32 7.902m 26.0°C heartbeat=108
+  0:36 8.273m heartbeat=117
+  0:40 7.961m heartbeat=121
+  0:44 8.273m 25.6°C heartbeat=120
+  0:48 8.507m heartbeat=117
+  0:52 8.41m 25.2°C heartbeat=108
+  0:56 8.449m heartbeat=117
+  1:00 8.332m heartbeat=114
+  1:04 8.429m 24.8°C heartbeat=110
+  1:08 8.566m heartbeat=114
+  1:12 8.215m heartbeat=108
+  1:16 7.961m heartbeat=115
+  1:20 7.61m 24.4°C
+  1:24 7.668m
+  1:28 7.805m heartbeat=119
+  1:32 7.844m heartbeat=120
+  1:36 7.766m heartbeat=119
+  1:40 7.727m 24.0°C
+  1:44 7.824m heartbeat=124
+  1:48 8.0m 23.6°C heartbeat=122
+  1:52 7.98m heartbeat=115
+  1:56 8.078m heartbeat=119
+  2:00 8.215m 23.2°C
+  2:04 8.39m heartbeat=120
+  2:08 8.078m heartbeat=121
+  2:12 7.961m heartbeat=119
+  2:16 8.098m
+  2:20 8.195m heartbeat=118
+  2:24 8.039m heartbeat=111
+  2:28 8.195m 22.8°C heartbeat=119
+  2:32 8.0m heartbeat=115
+  2:36 7.922m heartbeat=105
+  2:40 8.02m heartbeat=102
+  2:44 7.98m heartbeat=99
+  2:48 8.02m heartbeat=110
+  2:52 8.156m heartbeat=136
+  2:56 8.254m heartbeat=130
+  3:00 8.312m heartbeat=124
+  3:04 8.234m
+  3:08 8.312m heartbeat=119
+  3:12 8.234m heartbeat=123
+  3:16 8.215m heartbeat=121
+  3:20 8.351m heartbeat=124
+  3:24 8.273m heartbeat=128
+  3:28 8.605m 22.4°C heartbeat=130
+  3:32 8.624m heartbeat=127
+  3:36 8.585m heartbeat=122
+  3:40 8.546m heartbeat=125
+  3:44 8.488m heartbeat=122
+  3:48 8.585m
+  3:52 8.624m heartbeat=124
+  3:56 8.663m heartbeat=136
+  4:00 8.312m heartbeat=124
+  4:04 8.293m 22.0°C
+  4:08 8.273m heartbeat=126
+  4:12 7.922m heartbeat=124
+  4:16 8.527m heartbeat=125
+  4:20 8.273m heartbeat=124
+  4:24 8.429m heartbeat=122
+  4:28 8.605m heartbeat=121
+  4:32 8.683m heartbeat=117
+  4:36 8.566m heartbeat=118
+  4:40 8.702m heartbeat=119
+  4:44 8.644m
+  4:48 8.624m heartbeat=115
+  4:52 8.585m heartbeat=113
+  4:56 8.663m heartbeat=115
+  5:00 8.605m heartbeat=112
+  5:04 8.293m
+  5:08 8.234m heartbeat=106
+  5:12 7.844m heartbeat=111
+  5:16 8.546m heartbeat=112
+  5:20 8.644m 21.6°C heartbeat=113
+  5:24 8.644m
+  5:28 8.605m heartbeat=116
+  5:32 8.644m heartbeat=114
+  5:36 8.624m
+  5:40 8.644m heartbeat=113
+  5:44 8.605m heartbeat=114
+  5:48 8.663m heartbeat=117
+  5:52 8.527m heartbeat=114
+  5:56 8.449m heartbeat=117
+  6:00 8.39m heartbeat=114
+  6:04 8.566m heartbeat=113
+  6:08 8.605m
+  6:12 8.605m heartbeat=116
+  6:16 8.449m heartbeat=111
+  6:20 8.644m
+  6:24 8.624m heartbeat=113
+  6:28 8.663m
+  6:32 8.702m heartbeat=116
+  6:36 8.449m heartbeat=119
+  6:40 7.551m heartbeat=112
+  6:44 7.941m heartbeat=115
+  6:48 8.566m heartbeat=113
+  6:52 8.605m heartbeat=115
+  6:56 8.488m heartbeat=116
+  7:00 8.488m
+  7:04 8.507m heartbeat=113
+  7:08 8.605m heartbeat=112
+  7:12 8.078m heartbeat=115
+  7:16 7.844m heartbeat=112
+  7:20 7.805m heartbeat=115
+  7:24 7.883m
+  7:28 7.688m heartbeat=117
+  7:32 7.961m 21.2°C heartbeat=127
+  7:36 8.371m heartbeat=129
+  7:40 8.429m 20.8°C heartbeat=130
+  7:44 8.117m
+  7:48 8.02m heartbeat=118
+  7:52 8.0m heartbeat=110
+  7:56 7.961m
+  8:00 7.59m heartbeat=119
+  8:04 7.356m heartbeat=122
+  8:08 7.278m
+  8:12 7.415m heartbeat=119
+  8:16 7.259m heartbeat=116
+  8:20 7.102m
+  8:24 7.024m heartbeat=115
+  8:28 6.712m heartbeat=112
+  8:32 6.459m heartbeat=107
+  8:36 5.932m heartbeat=109
+  8:40 5.405m
+  8:44 4.663m heartbeat=108
+  8:48 3.844m heartbeat=104
+  8:52 2.79m heartbeat=98
+  8:56 2.127m heartbeat=107
+  9:00 1.834m heartbeat=109
+  9:04 1.678m heartbeat=117
+  9:08 1.307m heartbeat=110
+  9:12 0.8m heartbeat=106
+  9:16 0.059m heartbeat=108
+  9:20 0.234m heartbeat=114
+  9:24 0.078m heartbeat=118
+  9:28 0.117m heartbeat=117
+  9:32 0.059m heartbeat=119
+  9:36 0.254m
+  9:40 0.312m
+  9:44 0.117m
+  9:48 0.254m heartbeat=121
+  9:52 0.312m
+  9:56 0.039m
+ 10:00 0.039m heartbeat=122
+ 10:04 0.059m heartbeat=123
+ 10:08 0.312m heartbeat=122
+ 10:12 0.02m heartbeat=121
+ 10:16 0.059m
+ 10:20 0.039m heartbeat=120
+ 10:24 0.078m
+ 10:28 0.098m
+ 10:32 0.059m heartbeat=123
+ 10:36 0.351m heartbeat=122
+ 10:40 0.39m
+ 10:44 0.215m
+ 10:48 0.215m heartbeat=124
+ 10:52 0.176m heartbeat=122
+ 10:56 0.371m heartbeat=115
+ 11:00 0.273m heartbeat=113
+ 11:04 0.039m heartbeat=116
+ 11:08 0.098m heartbeat=117
+ 11:12 0.059m heartbeat=122
+ 11:16 0.098m heartbeat=121
+ 11:20 0.137m heartbeat=116
+ 11:24 0.078m heartbeat=118
+ 11:28 0.039m heartbeat=121
+ 11:32 0.039m heartbeat=129
+ 11:36 0.039m heartbeat=126
+ 11:40 0.059m
+ 11:44 0.059m heartbeat=124
+ 11:48 0.039m heartbeat=131
+ 11:52 0.039m heartbeat=135
+ 11:56 0.02m heartbeat=136
+ 12:00 0.02m heartbeat=133
+ 12:04 0.02m heartbeat=132
+ 12:08 0.02m heartbeat=131
+ 12:12 0.02m heartbeat=127
+ 12:16 0.039m heartbeat=124
+ 12:20 0.039m heartbeat=122
+ 12:24 0.02m 21.2°C
+ 12:28 0.02m heartbeat=124
+ 12:32 0.02m heartbeat=122
+ 12:36 0.0m heartbeat=121
+ 12:40 0.02m heartbeat=123
+ 12:44 0.039m 21.6°C
+ 12:48 0.039m heartbeat=122
+ 12:52 0.039m heartbeat=119
+ 12:56 0.039m heartbeat=115
+ 13:00 0.039m 22.0°C heartbeat=116
+ 13:04 0.039m heartbeat=113
+ 13:08 0.059m heartbeat=106
+ 13:12 0.039m heartbeat=112
+ 13:16 0.02m heartbeat=115
+ 13:20 0.02m
+ 13:24 0.039m 22.4°C
+ 13:28 0.02m heartbeat=117
+ 13:32 0.059m heartbeat=116
+ 13:36 0.059m heartbeat=112
+ 13:40 0.059m 22.8°C heartbeat=113
+ 13:44 0.059m heartbeat=115
+ 13:48 0.059m heartbeat=117
+ 13:52 0.059m
+ 13:56 0.059m
+ 14:00 0.078m heartbeat=118
+ 14:04 0.098m 23.2°C heartbeat=120
+ 14:08 0.098m heartbeat=121
+ 14:12 0.078m heartbeat=123

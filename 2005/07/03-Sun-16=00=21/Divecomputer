@@ -1,0 +1,10 @@
+model "manually added dive"
+maxdepth 2.0m
+meandepth 1.879m
+airtemp 25.0°C
+watertemp 20.0°C
+  0:00 0.0m
+  2:00 2.0m
+ 31:00 2.0m
+ 33:00 0.0m
+ 36:00 0.0m
